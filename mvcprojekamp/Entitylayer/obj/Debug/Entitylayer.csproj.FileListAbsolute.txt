@@ -1,0 +1,12 @@
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\EntityFramework.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\EntityFramework.xml
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\obj\Debug\Entitylayer.csprojAssemblyReference.cache
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Entitylayer\obj\Debug\Entitylayer.pdb

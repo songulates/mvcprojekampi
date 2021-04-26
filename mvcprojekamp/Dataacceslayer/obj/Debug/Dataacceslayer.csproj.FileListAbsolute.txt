@@ -1,0 +1,17 @@
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\Dataacceslayer.dll.config
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\Dataacceslayer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\Dataacceslayer.pdb
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\EntityFramework.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\Entitylayer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\Entitylayer.pdb
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\Entitylayer.dll.config
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\EntityFramework.xml
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.csprojAssemblyReference.cache
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.csproj.CoreCompileInputs.cache
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.csproj.CopyComplete
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.dll
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.pdb
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.Migrations.mig1.resources
+C:\Users\Songül Ateş\source\repos\mvcprojekamp\Dataacceslayer\obj\Debug\Dataacceslayer.csproj.GenerateResource.cache
